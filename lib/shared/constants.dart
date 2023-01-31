@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const kPrimaryColor = Color.fromARGB(255, 235, 235, 235);
+const kSecondaryColor = Color.fromARGB(255, 59, 59, 59);
+const kMainHeaderText = 'Schedule your appointments';
+const kMainLogo = 'assets/images/sample-logo.png';
+const kTutorialText1 = 'Welcome to the appointments app';
+const kTutorialText2 = 'This is a sample app for Flutter development';
+const kTutorialText3 = 'Feel free to use it as a template';
+const kContinueBtnText = 'Continue';
+const kPreviousBtnText = 'Previous';
+const kScheduleDateIndicationTextA = 'Select the date for your appointment:';
+const kScheduleDateIndicationTextB = 'Start time:';
+const kScheduleDateIndicationTextC = 'End time:';
+const kPersonalInfoIndicationTextA = 'Please enter your personal information:';
+const kPersonalInfoName = 'Name';
+const kPersonalInfoPhone = 'Phone';
+const kPersonalInfoEmail = 'Email';
+const kPersonalInfoNotes = 'Notes';
+const kSuccessMsg = "Appointment scheduled 🎉";
