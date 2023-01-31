@@ -1,16 +1,7 @@
 # sample_appointments_app_flutter
 
-A new Flutter project.
+![Demo of the appointments app](https://media0.giphy.com/media/SIez3aF9210710THcj/giphy.gif?cid=790b76114451818dba82d1c54fe1d3c7e2779746ce4fcb51&rid=giphy.gif&ct=g)
 
-## Getting Started
+Feel free to use this template for an appointments application! Credit to ![Undraw](https://undraw.co/illustrations) for the cool illustrations.
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+If you're curious to see how I created this app, you ![can check out my 100DaysOfCode journey](https://twitter.com/es_rene99/status/1590748179175047175).
